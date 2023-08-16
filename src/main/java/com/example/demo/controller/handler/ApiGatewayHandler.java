@@ -37,6 +37,4 @@ public class ApiGatewayHandler<T> implements Function<APIGatewayProxyRequestEven
 
     return messageResponse;
   }
-  
-
 }
